@@ -135,7 +135,7 @@ A technology initiative focused on modern software products, AI integration, int
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NS-Tanvir-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -143,8 +143,8 @@ A technology initiative focused on modern software products, AI integration, int
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NS-Tanvir-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NS-Tanvir-07&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -152,7 +152,7 @@ A technology initiative focused on modern software products, AI integration, int
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NS-Tanvir-07&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" width="70%" alt="GitHub Streak" />
 </p>
 
 ---
